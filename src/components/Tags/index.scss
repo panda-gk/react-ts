@@ -1,0 +1,15 @@
+.tagsModal {
+  .tagsMain {
+    margin-top: 20px;
+    .checkTag {
+      background-color: #1890ff;
+      color: #fff;
+      margin-bottom: 5px;
+
+    }
+    .ant-tag-checkable-checked.checkTag {
+      background-color: rgb(255, 85, 0);
+      color: #fff;
+    }
+  }
+}

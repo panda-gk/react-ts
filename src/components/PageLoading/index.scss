@@ -1,0 +1,17 @@
+@import '_base.scss';
+
+.pageLoading {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.spin {
+  display: initial;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}

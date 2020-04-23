@@ -1,0 +1,20 @@
+.set {
+  .autoAddUserTimeLower {
+    .ant-form-item-control-wrapper {
+      float: right;
+    }
+    .ant-form-item-label-left {
+      width: 30%;
+    }
+  }
+  .col1 {
+    .ant-col-8 {
+      width: 100%;
+    }
+  }
+  .autoAddUserChannel {
+    .ant-form-item-children {
+      display: flex;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+.dataStatement {
+  .collect {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .tableTitle {
+    height: 50px;
+    background: #79b1e6;
+    padding: 0 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+  }
+  .table {
+    p {
+      margin: 0 !important;
+    }
+  }
+}

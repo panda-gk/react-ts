@@ -1,0 +1,614 @@
+[
+  {
+    "keywords": ["face", "smile", "joy", "funny", "haha", "laugh", "like", ":D", ":)"],
+    "char": "😄",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "innocent", "heaven", "halo"],
+    "char": "😇",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "wink", "mischievous", "secret", ";)", "smile", "eye"],
+    "char": "😉",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "smile"],
+    "char": "🙂",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["happy", "joy", "tongue", "smile", "face", "silly", "yummy", "nom", "delicious", "savouring"],
+    "char": "😋",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "crush", "heart"],
+    "char": "😍",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "kissing_heart", "like", "affection", "valentines", "infatuation", "kiss"],
+    "char": "😘",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile", "wink", "tongue"],
+    "char": "😜",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "cool", "smile", "summer", "beach", "sunglass"],
+    "char": "😎",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+{
+    "keywords": ["face", "hugs", "hug"],
+    "char": "🤗",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "smirk", "mean", "prank", "smug", "sarcasm"],
+    "char": "😏",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["indifference", "bored", "straight face", "serious", "sarcasm", "unimpressed", "skeptical", "dubious", "side_eye"],
+    "char": "😒",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "eyeroll", "frustrated"],
+    "char": "🙄",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "blush", "shy", "flattered"],
+    "char": "😳",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "sad", "upset", "depressed", ":("],
+    "char": "😞",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "concern", "nervous", ":("],
+    "char": "😟",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["mad", "face", "annoyed", "frustrated"],
+    "char": "😠",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "sad", "depressed", "upset"],
+    "char": "😔",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "sick", "no", "upset", "oops"],
+    "char": "😣",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["sick", "whine", "upset", "frustrated"],
+    "char": "😫",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "gas", "phew", "proud", "pride"],
+    "char": "😤",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "surprise", "impressed", "wow", "whoa", ":O"],
+    "char": "😮",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "munch", "scared", "omg"],
+    "char": "😱",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "scared", "terrified", "nervous", "oops", "huh"],
+    "char": "😨",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "tears", "sad", "depressed", "upset", ":'("],
+    "char": "😢",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "phew", "sweat", "nervous"],
+    "char": "😥",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+   {
+    "keywords": ["face", "tired", "rest", "nap"],
+    "char": "😪",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "hot", "sad", "tired", "exercise"],
+    "char": "😓",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "xox", "surprised", "poisoned"],
+    "char": "😲",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "sick", "ill", "disease"],
+    "char": "😷",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["sick", "temperature", "thermometer", "cold", "fever"],
+    "char": "🤒",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "tired", "sleepy", "night", "zzz"],
+    "char": "😴",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["lock", "door", "password"],
+    "char": "🔑",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+ {
+    "keywords": ["dollar", "payment", "coins", "sale"],
+    "char": "💰",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+ {
+    "keywords": ["animal", "nature", "rodent", "squirrel"],
+    "char": "🐿",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+{
+    "keywords": ["score", "perfect", "numbers", "century", "exam", "quiz", "test", "pass", "hundred"],
+    "char": "💯",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+ {
+    "keywords": ["face", "rich", "dollar", "money"],
+    "char": "🤑",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["devil", "horns"],
+    "char": "😈",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+   {
+    "keywords": ["gesture", "hooray", "yea", "celebration", "hands"],
+    "char": "🙌",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+ {
+    "keywords": ["hands", "praise", "applause", "congrats", "yay"],
+    "char": "👏",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  {
+    "keywords": ["thumbsup", "yes", "awesome", "good", "agree", "accept", "cool", "hand", "like"],
+    "char": "👍",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+   {
+    "keywords": ["fingers", "hand", "direction", "right"],
+    "char": "👉",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+ {
+    "keywords": ["fingers", "hand", "direction", "up"],
+    "char": "👆",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+ {
+    "keywords": ["fingers", "hand", "direction", "down"],
+    "char": "👇",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  {
+    "keywords": ["direction", "fingers", "hand", "left"],
+    "char": "👈",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+ {
+    "keywords": ["hand", "fingers", "rude", "middle", "flipping"],
+    "char": "🖕",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  {
+    "keywords": ["beauty", "manicure", "finger", "fashion", "nail"],
+    "char": "💅",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+ {
+    "keywords": ["child", "boy", "girl", "toddler"],
+    "char": "👶",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+ {
+    "keywords": ["man", "male", "guy", "teenager"],
+    "char": "👦",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+{
+    "keywords": ["mustache", "father", "dad", "guy", "classy", "sir", "moustache"],
+    "char": "👨",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  {
+    "keywords": ["female", "girls", "lady"],
+    "char": "👩",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+   {
+    "keywords": ["pair", "people", "human", "love", "date", "dating", "like", "affection", "valentines", "marriage"],
+    "char": "👫",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["male", "boy", "fun", "dancer"],
+    "char": "🕺",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+ {
+    "keywords": ["female", "girl", "woman", "fun"],
+    "char": "💃",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  {
+    "keywords": ["pair", "love", "like", "affection", "human", "dating", "valentines", "marriage"],
+    "char": "💑",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["face", "lips", "love", "like", "affection", "valentines"],
+    "char": "💋",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["female", "girl", "fashion", "woman"],
+    "char": "💄",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+   {
+    "keywords": ["fashion", "shoes", "female", "pumps", "stiletto"],
+    "char": "👠",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["king", "kod", "leader", "royalty", "lord"],
+    "char": "👑",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["beef", "ox", "animal", "nature", "moo", "milk"],
+    "char": "🐮",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["animal", "oink"],
+    "char": "🐽",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["animal", "oink", "nature"],
+    "char": "🐷",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["flowers", "nature", "spring"],
+    "char": "💐",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["flowers", "valentines", "love", "spring"],
+    "char": "🌹",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["night", "sleep", "sky", "evening", "magic"],
+    "char": "🌙",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["hot", "cook", "flame"],
+    "char": "🔥",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["nature", "morning", "sky"],
+    "char": "🌞",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
+    "char": "🍺",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  {
+    "keywords": ["dollar", "bills", "payment", "sale"],
+    "char": "💸",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+ {
+    "keywords": ["money", "sales", "japanese", "dollar", "currency"],
+    "char": "💴",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+  {
+    "keywords": ["mall", "buy", "purchase"],
+    "char": "🛍",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+  {
+    "keywords": ["trolley"],
+    "char": "🛒",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+  {
+    "keywords": ["present", "birthday", "christmas", "xmas"],
+    "char": "🎁",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+ {
+    "keywords": ["email", "like", "affection", "envelope", "valentines"],
+    "char": "💌",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+   {
+    "keywords": ["love", "like", "valentines"],
+    "char": "❤️",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+   {
+    "keywords": ["love", "like", "affection", "valentines", "heart"],
+    "char": "💕",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+ {
+    "keywords": ["full", "chinese", "japanese", "red-square", "kanji"],
+    "char": "🈵",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+ {
+    "keywords": ["kanji", "japanese", "chinese", "forbidden", "limit", "restricted", "red-square"],
+    "char": "🈲",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  {
+    "keywords": ["chinese", "kanji", "japanese", "red-circle"],
+    "char": "㊗️",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  {
+    "keywords": ["volume", "sound"],
+    "char": "📢",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  {
+    "keywords": ["china", "chinese", "prc", "flag", "country", "nation", "banner"],
+    "char": "🇨🇳",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
+ {
+    "keywords": ["snack", "dessert", "sweet", "lolly"],
+    "char": "🍬",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+ {
+    "keywords": ["fashion", "shoes", "female", "pumps", "stiletto"],
+    "char": "👠",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+ {
+    "keywords": ["food", "fruit", "nature", "orange"],
+    "char": "🍊",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  {
+    "keywords": ["fruit", "nature"],
+    "char": "🍋",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+ {
+    "keywords": ["fruit", "food", "picnic", "summer"],
+    "char": "🍉",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+ {
+    "keywords": ["fruit", "food", "wine"],
+    "char": "🍇",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  {
+    "keywords": ["fruit", "food", "nature"],
+    "char": "🍓",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+ {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍈",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍑",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+ {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍍",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  {
+    "keywords": ["fruit", "food"],
+    "char": "🥝",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+ {
+    "keywords": ["stars", "shine", "shiny", "cool", "awesome", "good", "magic"],
+    "char": "✨",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+ {
+    "keywords": ["star", "sparkle", "shoot", "magic"],
+    "char": "💫",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+ {
+    "keywords": ["night", "sparkle", "awesome", "good", "magic"],
+    "char": "🌟",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["weather", "nature", "brightness", "summer", "beach", "spring"],
+    "char": "☀️",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+ {
+    "keywords": ["nature", "plant", "spring", "flower"],
+    "char": "🌸",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+ {
+    "keywords": ["plant", "vegetable", "flowers", "beach"],
+    "char": "🌺",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["animal", "nature", "face"],
+    "char": "🦊",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["animal", "nature", "wild"],
+    "char": "🐻",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  {
+    "keywords": ["wedding", "propose", "marriage", "valentines", "diamond", "fashion", "jewelry", "gem", "engagement"],
+    "char": "💍",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  {
+    "keywords": ["face", "smile", "happy", "flushed", "crush", "embarrassed", "shy", "joy"],
+    "char": "😊",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  }
+]

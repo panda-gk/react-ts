@@ -1,0 +1,328 @@
+.chat {
+  display: flex;
+  :focus {
+    outline: 0,
+  }
+
+  .weChat, .fans {
+    width: 250px;
+    background: #001529;
+    color: rgba(2255, 255, 255, 1);
+    padding: 20px 0;
+    padding-bottom: 0px;
+    box-sizing: border-box;
+    .iptBox {
+      margin: 20px 10px;
+      text-align: center;
+    }
+    .info {
+      display: flex;
+      align-items: center;
+      width: 100%;
+      p {
+        margin: 0;
+        opacity: 0.7;
+      }
+      img {
+        height: 50px;
+        width: 50px;
+        margin: 0 10px;
+      }
+      .userName {
+        overflow: hidden;
+        text-overflow:ellipsis;
+        white-space: nowrap;
+        width: 100%;
+      }
+    }
+    .wechatItem {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+    }
+    .wechatItem:hover {
+      background: #1890ff;
+      p {
+        opacity: 1;
+      }
+    }
+    .wechatItem.active {
+      background: #1890ff;
+      p {
+        opacity: 1;
+      }
+    }
+  }
+  .weChatTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .flod-i {
+      font-size: 30px;
+      cursor: pointer;
+    }
+  }
+  .weChat.active {
+    width: 100px;
+    padding-bottom: 58px;
+    .ReactVirtualized__Grid {
+      width: 100px !important;
+      overflow-x: hidden !important;
+    }
+    .info {
+      text-align: center;
+      display: flex;
+      justify-content: center;
+    }
+  }
+  .fold {
+    margin-bottom: 73px;
+  }
+  .fans {
+    background: #f2f4f5;
+    padding: 0;
+    .ant-tabs-bar {
+      margin: 0;
+      text-align: center;
+    }
+    .info {
+      p {
+        margin: 0;
+        opacity: 1;
+        color: #001529;
+        overflow: hidden;
+        text-overflow:ellipsis;
+        white-space: nowrap;
+      }
+    }
+    .fansItem {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+
+    }
+    .fansItem:hover {
+      background: #1890ff;
+      p {
+        color: #fff;
+      }
+    }
+    .fansItem.active {
+      background: #1890ff;
+      p {
+        opacity: 1;
+        color: #fff;
+      }
+    }
+  }
+  .records {
+    padding:  0 10px;
+    padding-top: 15px;
+    box-sizing: border-box;
+    background: #eceef1;
+
+    display: flex;
+    flex-direction: column;
+    .recordsBox {
+      overflow: hidden;
+      overflow-y: scroll;
+      flex: 1;
+    }
+    .lookMore {
+      text-align: center;
+      margin: 10px 0;
+      color: #1890ff;
+      cursor: pointer;
+    }
+    .recordsItem {
+      display: flex;
+      margin: 10px 0;
+      width: 45%;
+    }
+    .news {
+      p {
+        display: inline-block;
+      }
+    }
+    .news-1 {
+      text-align: right;
+    }
+    .news-2 {
+      text-align: left;
+    }
+    .recordsItem2 .text,
+    .recordsItem2 .video, 
+    .recordsItem2 .headImg
+     {
+      background: #9EEA6A;
+      color: #232325;
+    }
+    .nickName {
+      margin-bottom: 0;
+      color: #1890ff;
+    }
+    .text {
+      background: #fff;
+      border-radius: 5px;
+      padding: 10px;
+      box-sizing: border-box;
+      margin-top: 10px;
+    }
+    .text-2 {
+      text-align: left;
+    }
+    .video, .headImg {
+      padding: 10px;
+      background: #fff;
+      margin-top: 10px;
+      margin-bottom: 0;
+      border-radius: 5px;
+
+    }
+    .headerImg {
+      height: 30px;
+      width: 30px;
+      margin: 0 10px;
+    }
+    .material {
+      height: initial;
+      width: initial;
+      max-width: 200px;
+      min-width: 100px;
+    }
+    .fileMaterial {
+      border: 1px solid #eceef1;
+      padding: 5px;
+      width: 100%;
+      max-width: 300px;
+      display: flex;
+      justify-content: space-between;
+      background: #fff;
+      border-radius: 5px;
+      margin-top: 10px;
+      float: right;
+      p {
+        overflow : hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        flex: 1;
+        text-align: left;
+        line-height: 20px;
+        word-break: break-all
+        
+      }
+      img {
+        width: 60px;
+        height: 60px;
+      }
+    }
+    .weChatMaterial {
+      background: #fff;
+      border-radius: 5px;
+      width: 100%;
+      width: 250px;
+      padding: 5px 5px 5px 5px;
+      margin-top: 10px;
+      float: right;
+      .wechatMateriaTitle {
+        float: left;
+        img {
+          width: 20px;
+          height: 20px;
+          border-radius: 50%;
+          display: inline-block;
+          margin-right: 5px;
+        }
+      }
+      .wechatMateriaPic {
+        width: 100%;
+      }
+      .wechatMateriaTip {
+        border-top: 1px solid #f2f4f5;
+        font-size: 10px;
+        margin-top: 1em;
+        margin-bottom: 0px;
+        width: 100%;
+        float: left;
+        text-align: left;
+        padding-top: 5px;
+      }
+    }
+    .sendBox {
+      height: 200px;
+      padding: 5px;
+      display: flex;
+      flex-direction: column;
+      .sendBoxTitle {
+        // background: #f7f9fa;
+        padding: 2px 5px;
+        border-radius: 5px;
+        display: flex;
+      }
+      .sendBoxMain {
+        flex: 1;
+      }
+    }
+
+  }
+  .fansInfo {
+    background: #eceef1;
+    padding: 0;
+    width: 250px;
+    color: rgba(2255, 255, 255, 1);
+    padding: 20px 0;
+    padding-bottom: 0px;
+    box-sizing: border-box;
+    color: #001529;
+    .infoTitle {
+      display: flex;
+      p{
+        margin-bottom: 4px;
+      }
+      .handelBtn {
+        margin-left: 10px;
+        width: 50px;
+      }
+    }
+    img {
+      width: 50px;
+      height: 50px;
+      margin-right: 10px;
+    }
+    .tag {
+      .tagTitle {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid #ccc;
+      }
+      .tagContent {
+        max-height: 380px;
+        overflow: auto;
+        margin-top: 15px;
+      }
+    }
+  }
+  .omit {
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+  }
+  .oh {
+    overflow: hidden;
+  
+  }
+}
+.materialModal {
+  width: 1200px !important;
+  .ant-modal-body {
+    height: 800px;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+  .ant-col-4 {
+    width: 22%;
+  }
+}

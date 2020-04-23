@@ -1,0 +1,16 @@
+.news {
+  .newsMain {
+    // display: flex;
+    // flex-wrap: wrap;
+    column-count: 5;//列数2列
+    column-gap: 0;
+    counter-reset: item-counter;
+    break-inside: avoid;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+  .paging {
+    margin: 30px;
+    float: right;
+  }
+}

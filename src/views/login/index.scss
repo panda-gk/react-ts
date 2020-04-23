@@ -1,0 +1,40 @@
+@import "./../../styles/_base.scss";
+#components-form-demo-normal-login .login-form {
+  max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+#components-form-demo-normal-login .login-form-button {
+  width: 100%;
+}
+.login {
+  width: 300px;
+  margin: auto;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  .control {
+    font-size: 24px;
+    text-align: center;
+    opacity: 0.7;
+    font-weight: 700;
+  }
+  .loginTip {
+    text-align: center;
+    font-size: 16px;
+    color: #1890ff;
+    position: relative;
+  }
+  .loginTip:after {
+    content: '';
+    width: 50%;
+    height: 1px;
+    background-color: #1890ff;
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform:  translateX(-50%);
+  }
+}

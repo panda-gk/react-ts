@@ -1,0 +1,185 @@
+
+.previewModal {
+  .textBox {
+    background-color: #9eea6a;
+    border-radius: 5px;
+    padding: 10px;
+    color: #333333;
+    opacity: 0.9;
+  }
+  .fileBox {
+    border: 1px solid #eeeeee;
+    display: block !important;
+    padding: 10px;
+    border-radius: 4px;
+    p {
+      overflow: hidden;
+      text-overflow:ellipsis;
+      white-space: nowrap;
+    }
+    .fileContent {
+      color:#ec808d;
+      display: flex;
+
+      div {
+        flex: 1;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+      }
+      img {
+        width: 80px;
+        height: 80px;
+        margin-left: 10px;
+      }
+    }
+  }
+  .linkBox {
+    border: 1px solid #eeeeee;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between !important;
+    img {
+      width: 80px;
+      height: 80px;
+    }
+  }
+  .mb10 {
+    margin-bottom: 10px;
+  }
+  .df {
+    display: flex;
+    // justify-content: flex-end;
+  }
+}
+.editForm {
+  width: 700px !important;
+  .replyContent {
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+  }
+  .materialBox {
+    margin-top: 10px;
+    max-height: 400px;
+    overflow: auto;
+  }
+  .materialBox2 {
+    margin-top: 10px;
+    max-height: 400px;
+    overflow: auto;
+    .renderContentMain {
+      padding-bottom: 10px;
+      width: 100%;
+    }
+    .addition {
+      border: 1px solid #f8f6f7;
+      color: #586792;
+      border-radius: 4px;
+      padding: 5px;
+      background-color: #f7f7f7;
+      margin-top: 10px;
+    }
+    .like {
+      border-bottom: 1px solid #f0f0f0;
+      color: #5d6d84;
+    }
+    .comment {
+      line-height: 1.5;
+      span {
+        // font-weight: bold;
+        color: #333333;
+      }
+    }
+    .substance {
+      font-weight: bold;
+      padding: 5px;
+      line-height: 1.5;
+
+    }
+    .ellipsis {
+      right: -15px;
+      bottom: 6px;
+    }
+    .imgBox2 {
+      padding:0 5px;
+      img {
+        // width: 60px;
+        width: 32%;
+        max-height: 100px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+      }
+    }
+  }
+  .textBox {
+    background-color: #9eea6a;
+    border-radius: 5px;
+    padding: 10px;
+    color: #333333;
+    opacity: 0.9;
+    // margin-right: 20px;
+  }
+  .fileBox {
+    border: 1px solid #eeeeee;
+    display: block !important;
+    padding: 10px;
+    border-radius: 4px;
+    // margin-right: 20px;
+
+    p {
+      overflow: hidden;
+      text-overflow:ellipsis;
+      white-space: nowrap;
+    }
+    .fileContent {
+      color:#ec808d;
+      display: flex;
+      margin-right: 20px;
+      div {
+        flex: 1;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+      }
+      img {
+        width: 80px;
+        height: 80px;
+        margin-left: 10px;
+      }
+    }
+  }
+  .linkBox {
+    border: 1px solid #eeeeee;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between !important;
+    // margin-right: 20px;
+    img {
+      width: 80px;
+      height: 80px;
+    }
+  }
+  .renderContent {
+    display: flex;
+    position: relative;
+    margin-right: 20px;
+  }
+  .ellipsis {
+    position: absolute;
+    right: -15px;
+    bottom: 0;
+    cursor: pointer;
+  }
+  .mb10 {
+    margin-bottom: 10px;
+  }
+ 
+}
+.previewMass {
+  width: 100% !important;
+}

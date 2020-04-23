@@ -1,0 +1,22 @@
+.friendMag {
+  .omit {
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+  }
+  p{
+    margin: 0;
+  }
+  .ant-table table {
+    table-layout: fixed;
+  }
+  .ant-table-tbody > tr > td {
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+  }
+}
